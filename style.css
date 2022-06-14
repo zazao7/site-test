@@ -1,0 +1,22 @@
+body {
+    background-image: url(img/nvidia\ fundo.jpg);
+    margin: 0%;
+    
+
+}
+
+tr{
+    font-style: oblique;
+    font-size: x-large;
+}
+
+table{
+    color: greenyellow;
+    background-color: black;
+}
+
+a{
+    color: greenyellow;
+
+    text-decoration: none;
+}   
